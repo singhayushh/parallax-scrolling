@@ -8,10 +8,15 @@ html, body {
     font-family: consolas, sans-serif;
 }
 
+h1, h4 {
+   margin-bottom: 15px;
+}
+
 #parallax-container {
     position: relative;
     display: block;
     height: 800px;
+    overflow-x: hidden;
     background-color: #310115;
 }
 
