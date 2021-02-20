@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+    width:100%;
+    overflow-x: hidden;
+    font-family: consolas, sans-serif;
+}
+
 #parallax-container {
     position: relative;
     display: block;
