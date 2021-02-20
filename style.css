@@ -6,7 +6,7 @@
 }
 
 html, body {
-    font-family: consolas, sans-serif;
+    font-family: consolas, 'consolas', sans-serif;
 }
 
 h1, h4 {
