@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#parallax-container {
+    position: relative;
+    display: block;
+    height: 800px;
+    background-color: #310115;
+}
+
+#parallax-container div {
+    background-size: cover !important;
+    position: fixed;
+    top: 0;
+    background-position: center !important;
+    transform: translateY(0px);
+    height: 800px;
+    width: 100%;
+}
+
+section {
+    position: relative;
+    color: #FFF;
+    background-color: #310115;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

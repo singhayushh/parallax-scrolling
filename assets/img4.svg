@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1000" width="1500" height="1000">
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="715.623" cy="610.807" r="331.702">
+			<stop offset="0" stop-color="#ff9474"  />
+			<stop offset="1" stop-color="#fd524e"  />
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<path id="&lt;Path&gt;" class="shp0" d="M1047.33 610.81C1047.33 794 898.82 942.51 715.62 942.51C532.43 942.51 383.92 794 383.92 610.81C383.92 427.61 532.43 279.11 715.62 279.11C898.82 279.11 1047.33 427.61 1047.33 610.81Z" />
+</svg>
